@@ -13,3 +13,5 @@
 ![Bazinga menu](./assets/bazinga1.png)
 ![Bazinga query](./assets/bazinga2.png)
 
+
+#### Unzip the fingerprints.zip to get the DB and start querying!
